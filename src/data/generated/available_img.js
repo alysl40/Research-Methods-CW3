@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+const availableImg = ["1-1","1-2","1-3","2-2","3-1","3-2","3-3","3-4","Beck2016Visual"];
